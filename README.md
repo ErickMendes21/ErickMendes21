@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I will be programmer guy studying to be a fullstack dev. I from Brazil, i 18 years old<br><br>- 📚 I'm study computer scinence</p>
+<p align="left">I will be programmer guy studying to be a fullstack dev. I from Brazil, i 18 years old<br><br>- 📚 I'm study computer engineering</p>
 
 ###
 
