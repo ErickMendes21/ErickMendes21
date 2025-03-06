@@ -1,21 +1,30 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDB5Z244OGhqNG9lc2d0MHY1enBzZGNzb25qbXpjdTMyZnZ4Ymh4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qn74oPyaKYBpVWdA7t/giphy.gif"  />
-</div>
+Hello! I'm Erick
 
-###
+💻 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+I am a Computer Engineering student at PUG-GO, and my goal is to become a full-stack developer. I am currently improving my skills in various technologies and always looking for new challenges.
 
-###
+🚀 Technologies
 
-<h1 align="center">hey there 👋</h1>
+🔖 HTML
 
-###
+🔖 CSS
 
-<h3 align="left">👩‍💻  About Me</h3>
+🔖 JavaScript
+
+🔖 React JS
+
+📚 What I'm Learning
+
+I am currently deepening my knowledge in JavaScript and exploring new technologies to become a complete full-stack developer.
+
+💡 Goals
+
+Become a full-stack developer.
+
+Learn about back-end and databases.
+
+Contribute to open-source projects and share knowledge.
 
 ###
 
