@@ -14,6 +14,8 @@ I am a Computer Engineering student at PUG-GO, and my goal is to become a full-s
 
 🔖 React JS
 
+🔖 C
+
 📚 What I'm Learning
 
 I am currently deepening my knowledge in JavaScript and exploring new technologies to become a complete full-stack developer.
