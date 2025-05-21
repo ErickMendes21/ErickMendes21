@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Erick!
 
-I'm a Computer Engineering student passionate about **Data Science** and **Data Engineering**. I'm currently transitioning into the data field, exploring everything from data pipelines to machine learning models.
+I'm a Computer Engineering student passionate about **Data Science**, **Data Engineering** and **Back-End**. I'm currently transitioning into the python development, exploring everything from data pipelines to machine learning models.
 
 ## 🚀 About Me
 - 🎓 I'm studying Computer Engineering
-- 📊 I’m deeply interested in **Data Engineering**, **Data Analysis**, and **Machine Learning**
+- 📊 I’m deeply interested in **Data Engineering**, **Data Analysis**, **Machine Learning**, and **Back-End**
 - 🧠 Currently learning tools like Python, SQL, Airflow, and cloud platforms
 - 👨‍💻 I enjoy building efficient and scalable data solutions
 - 🌍 Based in Brazil, open to remote opportunities and international collaboration
