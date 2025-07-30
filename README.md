@@ -1,23 +1,21 @@
 # Hi there 👋 I'm Erick!
 
-I'm a Computer Engineering student passionate about **Data Science**, **Data Engineering** and **Back-End**. I'm currently transitioning into the python development, exploring everything from data pipelines to machine learning models.
+I'm a Computer Engineering student passionate about software development and automation. I'm currently deepening my knowledge in building smart and scalable solutions, exploring everything from system architecture to data-driven applications.
 
 ## 🚀 About Me
-- 🎓 I'm studying Computer Engineering
-- 📊 I’m deeply interested in **Data Engineering**, **Data Analysis**, **Machine Learning**, and **Back-End**
-- 🧠 Currently learning tools like Python, SQL, Airflow, and cloud platforms
-- 👨‍💻 I enjoy building efficient and scalable data solutions
-- 🌍 Based in Brazil, open to remote opportunities and international collaboration
+- 🎓 I'm a Computer Engineering student passionate about software development and automation
+- 💡 I enjoy solving real-world problems through code and building efficient, scalable solutions
+- 🌐 I'm exploring areas like backend systems, APIs, process automation, and data-driven applications
+- 🌍 Based in Brazil — open to remote opportunities and international collaboration
 
 ## 🔧 Technologies & Tools
-- Languages: Python, JavaScript, SQL, C, C++
-- Tools: Pandas, NumPy, Jupyter, Apache Airflow, Git, Docker
-- Databases: PostgreSQL, MySQL, MongoDB
-- Cloud: GCP (BigQuery, Cloud Storage), AWS (learning phase)
+- Languages: Python, JavaScript, C, C++
+- Tools: Pandas, NumPy, Jupyter, Apache Airflow, Git, Docker, React
+- Databases: PostgreSQL
 
 ## 📈 Current Goals
-- Master Data Engineering concepts
-- Work on real-world data projects
+- Expand my knowledge in full-stack development and automation
+- Build real-world projects that solve practical challenges
 - Collaborate with open-source or community-driven data initiatives
 
 ## 📬 Let's Connect
