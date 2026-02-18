@@ -10,7 +10,7 @@ I'm a Computer Engineering student passionate about software development and aut
 
 ## 🔧 Technologies & Tools
 - Languages: Python, JavaScript, C, C++
-- Tools: Pandas, NumPy, Jupyter, Apache Airflow, Git, Docker, React
+- Tools: Git, React
 - Databases: PostgreSQL
 
 ## 📈 Current Goals
