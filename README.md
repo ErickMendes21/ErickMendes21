@@ -9,7 +9,7 @@ I'm a Computer Engineering student passionate about software development and aut
 - 🌍 Based in Brazil — open to remote opportunities and international collaboration
 
 ## 🔧 Technologies & Tools
-- Languages: Python, JavaScript, C, C++
+- Languages: Python, JavaScript, TypeScript, C, C++
 - Tools: Git, React
 - Databases: PostgreSQL
 
@@ -39,6 +39,8 @@ Thanks for visiting my profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
